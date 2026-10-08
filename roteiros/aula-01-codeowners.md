@@ -24,7 +24,7 @@ A pessoa que criou a cópia é **owner/admin** e poderá configurar a proteção
 ## 2. Configurar o `CODEOWNERS`
 
 Na cópia da dupla, abra `.github/CODEOWNERS` e troque
-`@guilherme-argentino` pelo *handle* da pessoa revisora:
+`@guilherme-setera` pelo *handle* da pessoa revisora:
 
 ```text
 # Toda mudança pede revisão da outra pessoa
