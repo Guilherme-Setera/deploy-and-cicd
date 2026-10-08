@@ -1,5 +1,6 @@
 # Aula 3: mudar produção exige revisão de quem responde por ela.
 # Troque pelos usuários do seu grupo e ative "Require review from Code Owners"
 # na proteção da branch main (Settings → Branches).
-/gitops/overlays/producao/  @Guilherme-Setera
-/agente/prompts/            @Guilherme-Setera
+* @Guilherme-Setera
+/agente/prompts/** @Guilherme-Setera
+/gitops/overlays/producao/** @Guilherme-Setera
