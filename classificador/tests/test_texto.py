@@ -25,4 +25,4 @@ def test_espacos_unicos():
 
 
 def test_texto_vazio_continua_vazio():
-    assert limpar("") == ""
+    assert limpar("   ") == ""
