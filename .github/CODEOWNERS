@@ -1,6 +1,6 @@
 # Toda mudança pede revisão da outra pessoa
-* @Keizzzo
+* @Guilherme-Setera
 
 # Áreas de maior risco têm regra explícita
-/agente/prompts/** @Keizzzo
-/gitops/overlays/producao/** @Keizzzo
+/agente/prompts/** @Guilherme-Setera
+/gitops/overlays/producao/** @Guilherme-Setera
